@@ -1,0 +1,45 @@
+.Hero{
+width:50%;
+height: 100%;
+margin: 0 auto;
+text-align: center;
+position: relative;
+
+
+
+
+
+
+}
+.Hero img{
+    margin: 0 auto;
+
+max-width:100%;
+max-height:100%;
+display: block;
+box-sizing: border-box;
+
+
+}
+.Hero div{
+
+    position: relative;
+    bottom: 40%;
+}
+.Left{
+float: left;
+ font-size: 35px;
+    font-weight: bold;
+}
+.Right{
+
+    float: right;
+    font-size: 35px;
+    font-weight: bold;
+}
+.Exit{
+
+    position:absolute;
+  top:0;
+  right:0;
+}

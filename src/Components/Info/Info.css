@@ -1,0 +1,25 @@
+.Info{
+
+width: 50%;
+text-align: start;
+
+
+}
+.Info h2, h3, h4, details {
+
+margin-left: 5%;
+margin-top: 0;
+
+
+}
+.Info  h4{
+
+margin-left: 5%;
+color: white;
+}
+.Info  h2{
+
+margin-top: 5%;
+}.Info details > summary {
+    outline: none;
+}

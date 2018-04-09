@@ -1,0 +1,48 @@
+
+
+
+
+
+
+.Grid{
+float: right;
+display: flex;
+flex-wrap: wrap;
+z-index: 100;
+position: relative;
+
+height:30vh;
+ margin-top:10%;
+ margin : 10% 0 10px 10px;
+top:10%;
+
+
+}
+.Small {
+
+
+width: 6.6%;
+
+}
+.Small img{
+width:100%;
+
+
+
+}
+.Small img:hover{
+
+opacity: 0.6;
+cursor :pointer;
+zoom:1;
+}
+.Landing{
+
+position: relative;
+    width: 100%;
+    background: rgb(39, 37, 37);
+    height: 100vh;
+ z-index: 90;
+    margin:0 auto;
+       
+}

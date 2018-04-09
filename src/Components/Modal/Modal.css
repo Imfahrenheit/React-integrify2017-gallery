@@ -1,0 +1,21 @@
+.Modal {
+   position: absolute;
+    height: 80%;
+    z-index: 500;
+   
+    color: rgb(218, 154, 6);
+    width: 72%;
+    background: rgba(45, 43, 43, 0.655);
+    
+    border-radius: 5px;
+   
+    top:15%;
+    left: 17%;
+    display: flex;
+    
+  
+
+    
+    transition: all 0.5s ease-out;
+}
+
